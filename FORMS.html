@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button type="button" id="btn">Click Me</button>
+    <input type="text" id="uip"/>
+<script >
+    console.log("hi kaka ");
+    let count =0;
+    let btn = document.getElementById("btn");
+    btn.addEventListener('click',balu);//event listiners 
+    //event listeners:
+    // mouse events ,keyboard btns,touchpad;
+    //click,dbclick
+    function balu(e){
+        count+=1;
+        console.log(count);
+    }
+    let userInp = "";
+    let baluinput = document.getElementById("uip");
+    //keyboard event keup,keydown
+    baluinput.addEventListener("keyup",onBalukeyUp);
+    function onBalukeyUp(e){
+        console.log(e);
+        if(e.key==="Enter"){
+            console.log(userInp);
+        }
+        userInp=e.target.value;
+        // console.log(e.target.value);
+
+    }
+
+</script>
+
+</body>
+</html>
+
