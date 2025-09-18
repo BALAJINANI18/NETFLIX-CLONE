@@ -1,9 +1,20 @@
-HI,EVERYONE THIS IS A NETFLIX CLONE DESIGNED BY USING HTML AND CSS.THIS IS MY SECOND PROJECT.
-THIS CLONE IS DONE BY USING HTML AND CSS ONLY.
-IN THIS I HAVE USED HTML AND CSS CONTENTS OR SYNTAXES.
-IN THIS I HAVE USED HTML SYNTAXES OF DIV CLASS,ID,LOGO,I ACTION,FORMS,BUTTONS...ETC..,
-IN CSS I HAVE USED BACKGROUND,PADDING,MARGIN-TOP,MARGIN-LEFT,MARGIN..ETC/..JUSTIFY-CONTENTS,ALIGN-ITEMS.
-IN THIS I HAVE SHARED A NETFLIX CLONE CODE SO USE THIS CODE AND MAKE IT YOURSELF...
-ALL THE BEST...
+🎬 Netflix Clone
 
+A simple Netflix Clone built using HTML and CSS to replicate the front-end design of Netflix.
+This project focuses on the UI/UX design and responsiveness, without backend functionality.
 
+🚀 Features
+
+🎨 Clean Netflix-inspired UI
+
+📱 Fully responsive design (mobile, tablet, desktop)
+
+📺 Sections like Hero Banner, Trending Movies, Popular Shows, etc.
+
+🔗 Navigation bar similar to Netflix
+
+🛠️ Technologies Used
+
+HTML5 – For structuring content
+
+CSS3 – For styling and layout (Flexbox/Grid)
