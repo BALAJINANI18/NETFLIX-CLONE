@@ -2,6 +2,8 @@
 
 A simple Netflix Clone built using HTML and CSS to replicate the front-end design of Netflix.
 This project focuses on the UI/UX design and responsiveness, without backend functionality.
+Live Demo:
+https://BALAJINANI/18.github.io/netflix-clone
 
 🚀 Features
 
