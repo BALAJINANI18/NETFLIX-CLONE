@@ -22,7 +22,8 @@ Netflix-Clone/
 │── index.html
 │── style.css
 │── /images (if any)
-<img width="1739" height="667" alt="image" src="https://github.com/user-attachments/assets/52864cab-f58a-4c02-89ee-6c2b99a713a5" />
+<img width="1888" height="1087" alt="image" src="https://github.com/user-attachments/assets/d21119c3-0273-4b04-b057-095da56ba6de" />
+
 <img width="1845" height="700" alt="image" src="https://github.com/user-attachments/assets/a0b57e8f-3c78-47ae-917f-a0889a8db5ef" />
 
 
